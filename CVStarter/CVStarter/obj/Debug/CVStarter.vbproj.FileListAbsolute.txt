@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\bin\Debug\CVStarter.exe
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\bin\Debug\CVStarter.pdb
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\bin\Debug\CVStarter.xml
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.Resources.resources
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.vbproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.exe
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.xml
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.pdb
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.Form1.resources
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.Blue_Error.resources
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\obj\Debug\CVStarter.Form2.resources
+C:\Users\Sebastian\source\repos\CVStarter\CVStarter\bin\Debug\CVStarter.exe.config
